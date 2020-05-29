@@ -107,7 +107,7 @@ namespace OOPLab4._1
             double R = Rating;
             if (R >= 90) Console.WriteLine("\nВітаємо відмінника!");
             else if ((R >= 75) && (R < 90)) Console.WriteLine("\nМожна вчитися краще");
-            else Console.WriteLine("\nВарто бiльше уваги придiляти навчанню");            
+            else Console.WriteLine("\n Варто бiльше уваги придiляти навчанню");            
         }
         public static void Main()
         {
